@@ -1,0 +1,24 @@
+{
+    "fullName": "Gunel Balayeva",
+    "customer": {
+        "serial": "",
+        "number": ""
+    },
+    "monthlyExpense": 300.0,
+    "monthlyLimit": 50.0,
+    "news": [
+        {
+            "id": 1,
+            "imageUrl": "image1"
+        },
+        {
+            "id": 2,
+            "imageUrl": "image2"
+        },
+        {
+            "id": 2,
+            "imageUrl": "image3"
+        }
+    ]
+}
+
